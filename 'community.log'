@@ -1,0 +1,33 @@
+2020-03-03 14:28:24.267  INFO 2056 --- [main] com.heng.community.LoggerTests           : Starting LoggerTests on DESKTOP-CLBQBMM with PID 2056 (started by awd82 in F:\javaProject\community\community)
+2020-03-03 14:28:24.268 DEBUG 2056 --- [main] com.heng.community.LoggerTests           : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-03 14:28:24.269  INFO 2056 --- [main] com.heng.community.LoggerTests           : No active profile set, falling back to default profiles: default
+2020-03-03 14:28:26.594  INFO 2056 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-03 14:28:26.737  INFO 2056 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-03 14:28:27.133  INFO 2056 --- [main] com.heng.community.LoggerTests           : Started LoggerTests in 3.294 seconds (JVM running for 4.7)
+2020-03-03 14:28:27.701 DEBUG 2056 --- [main] com.heng.community.LoggerTests           : debug log
+2020-03-03 14:28:27.701  INFO 2056 --- [main] com.heng.community.LoggerTests           : info log
+2020-03-03 14:28:27.701  WARN 2056 --- [main] com.heng.community.LoggerTests           : warn log
+2020-03-03 14:28:27.702 ERROR 2056 --- [main] com.heng.community.LoggerTests           : error log
+2020-03-03 14:28:27.723  INFO 2056 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-03 14:29:05.533  INFO 16216 --- [main] com.heng.community.LoggerTests           : Starting LoggerTests on DESKTOP-CLBQBMM with PID 16216 (started by awd82 in F:\javaProject\community\community)
+2020-03-03 14:29:05.535 DEBUG 16216 --- [main] com.heng.community.LoggerTests           : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-03 14:29:05.535  INFO 16216 --- [main] com.heng.community.LoggerTests           : No active profile set, falling back to default profiles: default
+2020-03-03 14:29:08.183  INFO 16216 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-03 14:29:08.330  INFO 16216 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-03 14:29:08.675  INFO 16216 --- [main] com.heng.community.LoggerTests           : Started LoggerTests in 3.583 seconds (JVM running for 4.888)
+2020-03-03 14:29:09.247 DEBUG 16216 --- [main] com.heng.community.LoggerTests           : debug log
+2020-03-03 14:29:09.248  INFO 16216 --- [main] com.heng.community.LoggerTests           : info log
+2020-03-03 14:29:09.248  WARN 16216 --- [main] com.heng.community.LoggerTests           : warn log
+2020-03-03 14:29:09.248 ERROR 16216 --- [main] com.heng.community.LoggerTests           : error log
+2020-03-03 14:29:09.274  INFO 16216 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-03 14:29:51.676  INFO 12152 --- [main] com.heng.community.LoggerTests           : Starting LoggerTests on DESKTOP-CLBQBMM with PID 12152 (started by awd82 in F:\javaProject\community\community)
+2020-03-03 14:29:51.677 DEBUG 12152 --- [main] com.heng.community.LoggerTests           : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-03 14:29:51.678  INFO 12152 --- [main] com.heng.community.LoggerTests           : No active profile set, falling back to default profiles: default
+2020-03-03 14:29:54.140  INFO 12152 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-03 14:29:54.274  INFO 12152 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-03 14:29:54.700  INFO 12152 --- [main] com.heng.community.LoggerTests           : Started LoggerTests in 3.476 seconds (JVM running for 4.859)
+2020-03-03 14:29:55.354 DEBUG 12152 --- [main] com.heng.community.LoggerTests           : debug log
+2020-03-03 14:29:55.355  INFO 12152 --- [main] com.heng.community.LoggerTests           : info log
+2020-03-03 14:29:55.355  WARN 12152 --- [main] com.heng.community.LoggerTests           : warn log
+2020-03-03 14:29:55.355 ERROR 12152 --- [main] com.heng.community.LoggerTests           : error log
+2020-03-03 14:29:55.380  INFO 12152 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
