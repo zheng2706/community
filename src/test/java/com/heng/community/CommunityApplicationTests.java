@@ -3,7 +3,9 @@ package com.heng.community;
 import com.heng.community.dao.AlphaDao;
 import com.heng.community.dao.AlphaDaoImpl;
 import com.heng.community.service.AlphaService;
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -11,11 +13,13 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringRunner;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 @SpringBootTest
+@RunWith(SpringRunner.class)
 @ContextConfiguration(classes = CommunityApplication.class)
 class CommunityApplicationTests implements ApplicationContextAware {
 
